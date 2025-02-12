@@ -1,0 +1,2 @@
+# crudlaravel
+Basic Crud
